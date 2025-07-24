@@ -1,0 +1,15 @@
+.dashboard-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #0fbe43;
+}
+
+.center-image {
+  width: 90%;
+  max-width: 800px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(234, 228, 228, 0.2);
+}
